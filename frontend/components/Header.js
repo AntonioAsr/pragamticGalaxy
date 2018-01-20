@@ -22,7 +22,7 @@ class Header extends Component {
                     />
                     <meta charSet="utf-8" />
                     <title>
-                        WordPress + React Starter Kit Frontend by Postlight
+                        PragmaticGalaxy!
                     </title>
                 </Head>
             </div>
